@@ -4,4 +4,4 @@ This repository is dedicated to pipelines that were developed in python 3.7 for 
 
 These pipelines are alpha versions which were tested and refined using datasets of COVID-19 sequences from GOG-UK. 
 
-Here, we included versions of pipelines that are runnable in command line and a version that includes a complete command line interface.   
+Documented versions of the pipelines were included and one complete command line interface tool was also included.   
