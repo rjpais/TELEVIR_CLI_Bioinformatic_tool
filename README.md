@@ -23,14 +23,13 @@ You can also set most pipeline parameters for tuning the analysis by adding adic
 
 
 ## Pre-instalation software requisites:
-* anaconda python 3.7 distribution or later 
-* mathplotlib
-* biopython 
-* anaconda python distribution 
-* Medaka 1.2.1 ([anaconda forge installation](https://anaconda.org/bioconda/medaka) )
-* Nanofilt 2.6.0  
-* NanoStats 1.4.0 
-
+* [anaconda python 3.7 distribution or later version](https://www.anaconda.com/products/individual) 
+* Matplotlib installed in anaconda ([pip install matplotlib](https://pypi.org/project/matplotlib/))  
+* [biopython](https://pypi.org/project/biopython/) previously installed in anaconda 
+* Medaka 1.2.1 ([conda install -c bioconda medaka==1.2.1](https://anaconda.org/bioconda/medaka))
+* Nanofilt 2.6.0 inside medaka environment  [(pip install nanofilt==2.6.0)](https://pypi.org/project/NanoFilt/) 
+* NanoStats 1.4.0 inside medaka environment [(pip install nanostat==1.4.0)](https://pypi.org/project/NanoStat/)
+* MAFFT installation inside medaka environment ([conda install -c bioconda mafft](https://anaconda.org/bioconda/mafft))
 
 ## Running instructions:
 
