@@ -24,7 +24,7 @@ You can also set most pipeline parameters for tuning the analysis by adding adic
 If not defaut settings will be applied.
 
 
-## Pre-instalation software requisites for most scripts:
+## Pre-instalation software requisites:
 * anaconda python 3.7 distribution or later 
 * mathplotlib
 * biopython 
