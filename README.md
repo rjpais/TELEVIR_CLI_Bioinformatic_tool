@@ -27,7 +27,7 @@ You can also set most pipeline parameters for tuning the analysis by adding adic
 * mathplotlib
 * biopython 
 * anaconda python distribution 
-* Medaka 1.2.1 (anaconda forge installation)
+* Medaka 1.2.1 ([anaconda forge installation]: https://anaconda.org/bioconda/medaka )
 * Nanofilt 2.6.0  
 * NanoStats 1.4.0 
 
@@ -43,13 +43,13 @@ You can also set most pipeline parameters for tuning the analysis by adding adic
 
 ### On the command line, go to the path where the script is located and run the following command: 
 
-	(medaka) $ python AMP_TELEVIR_CLI.py  -g <path reference> -s <path data> -i <path metadata>. 
+	(medaka) $ python AMP_TELEVIR_CLI.py  -g <path reference> -s <path data> -i <path metadata> 
       
  
  	or if you prefer to choose the location of files, just type choose instead of the path:
       
      
-	(medaka) $ python SCRIPT_NAME.py -g choose -s choose -i choose. 
+	(medaka) $ python AMP_TELEVIR_CLI.py -g choose -s choose -i choose 
      
 	In this case the file choose GUI will pop up and you can search you computer for the path to file. 
 
