@@ -54,6 +54,6 @@ You can also set most pipeline parameters for tuning the analysis by adding adic
 	In this case the file choose GUI will pop up and you can search you computer for the path to file. 
 
 
-### If all works, you will see a folders for each sample and outputs files within will be generated systematically. 
+### If all works, you will see folders for each sample and outputs files generated within generated systematically inside the results folder in the path where raw data files are located. 
 
 
