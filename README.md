@@ -18,8 +18,8 @@ The Script performs an fully automated data processing of multiple fastq files g
     *  Overal analysis reports in csv files, one with the list of all mutations detected and another with main stats"
     *  Run report contaning pipeline parameters and other info
 
-## Optionally, you can get the paths using the choose GUI option by typing "choose" after each mandatory input command. Example:  -g choose -s choose -i choose.
-## You can also set most pipeline parameters for tuning the analysis by adding adicional arguments. If not defaut settings will be applied.
+Optionally, you can get the paths using the choose GUI option by typing "choose" after each mandatory input command. Example:  -g choose -s choose -i choose.
+You can also set most pipeline parameters for tuning the analysis by adding adicional arguments. If not defaut settings will be applied.
 
 
 ## Pre-instalation software requisites:
@@ -34,14 +34,14 @@ The Script performs an fully automated data processing of multiple fastq files g
 
 ## Running instructions:
 
-## On the command line using anaconda environment, activate medaka environment by typing  
+### On the command line using anaconda environment, activate medaka environment by typing  
 
 	Activate the medaka environment on anaconda by running the following commands.
  
     	(base) $ conda activate medaka
     
 
-## On the command line, go to the path where the script is located and run the following command: 
+### On the command line, go to the path where the script is located and run the following command: 
 
 	(medaka) $ python AMP_TELEVIR_CLI.py  -g <path reference> -s <path data> -i <path metadata>. 
       
@@ -54,6 +54,6 @@ The Script performs an fully automated data processing of multiple fastq files g
 	In this case the file choose GUI will pop up and you can search you computer for the path to file. 
 
 
-## If all works, you will see a folders for each sample and outputs files within will be generated systematically. 
+### If all works, you will see a folders for each sample and outputs files within will be generated systematically. 
 
 
