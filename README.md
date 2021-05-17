@@ -27,7 +27,7 @@ You can also set most pipeline parameters for tuning the analysis by adding adic
 * mathplotlib
 * biopython 
 * anaconda python distribution 
-* Medaka 1.2.1 ([anaconda forge installation]: https://anaconda.org/bioconda/medaka )
+* Medaka 1.2.1 ([anaconda forge installation](https://anaconda.org/bioconda/medaka) )
 * Nanofilt 2.6.0  
 * NanoStats 1.4.0 
 
