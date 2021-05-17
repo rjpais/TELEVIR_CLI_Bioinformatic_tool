@@ -34,25 +34,24 @@ The Script performs an fully automated data processing of multiple fastq files g
 
 ## Running instructions:
 
-## 1) On the command line using anaconda environment, activate medaka environment by typing  
+## On the command line using anaconda environment, activate medaka environment by typing  
 
-
-## Activate the medaka environment on anaconda by running the following commands.
+	Activate the medaka environment on anaconda by running the following commands.
  
-##     (base) $ conda activate medaka
+    	(base) $ conda activate medaka
     
 
 ## On the command line, go to the path where the script is located and run the following command: 
 
-##     (medaka) $ python AMP_TELEVIR_CLI.py  -g <path reference> -s <path data> -i <path metadata>. 
+	(medaka) $ python AMP_TELEVIR_CLI.py  -g <path reference> -s <path data> -i <path metadata>. 
       
  
-##     or if you prefer to choose the location of files, just type choose instead of the path:
+ 	or if you prefer to choose the location of files, just type choose instead of the path:
       
      
-##     (medaka) $ python SCRIPT_NAME.py -g choose -s choose -i choose. 
+	(medaka) $ python SCRIPT_NAME.py -g choose -s choose -i choose. 
      
-##      In this case the file choose GUI will pop up and you can search you computer for the path to file. 
+	In this case the file choose GUI will pop up and you can search you computer for the path to file. 
 
 
 ## If all works, you will see a folders for each sample and outputs files within will be generated systematically. 
